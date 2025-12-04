@@ -6,5 +6,6 @@ public class MyClass {
 		System.out.println("HiHi Git");
 		DongWonBaBo your = new DongWonBaBo();
 		your.saySomething("Everyone");
+		System.out.println("DongWonBaBo!");
 	}
 }
